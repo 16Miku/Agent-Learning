@@ -26,7 +26,9 @@ Agent_Learning_2.ipynb学习了MCP服务器和客户端的搭建，以及用Lang
 
 
 [Browser_Use_Test.ipynb](Browser_Use_Test.ipynb)
+
 [Browser_Use_Test.py](Browser_Use_Test.py)
+
 1、Browser_Use_Test.ipynb实践了Browser-Use的基础使用。测试了一些爬取数据和自动化登录网站的场景，有些未能成功得到结果。
 
 2、Browser_Use_Test.py为本地conda创建的Mapping-Agent环境下的运行的代码。
