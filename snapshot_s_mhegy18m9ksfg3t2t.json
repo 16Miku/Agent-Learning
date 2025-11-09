@@ -1,0 +1,12 @@
+[
+  {
+    "markdown": "Example Domain\n\n# Example Domain\n\nThis domain is for use in documentation examples without needing permission. Avoid use in operations.\n\n[Learn more](https://iana.org/domains/example)",
+    "url": "https://www.example.com/",
+    "page_title": "Example Domain"
+  },
+  {
+    "markdown": "Example Domain\n\n# Example Domain\n\nThis domain is for use in documentation examples without needing permission. Avoid use in operations.\n\n[Learn more](https://iana.org/domains/example)",
+    "url": "https://example.com/",
+    "page_title": "Example Domain"
+  }
+]
