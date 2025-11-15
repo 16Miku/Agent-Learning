@@ -40,7 +40,7 @@
 *   **任务解耦**：将“信息收集”和“格式化输出”两个步骤分开，Agent 的思考过程（Chain of Thought）更加清晰，有助于完成复杂任务。
 *   **自然交互**：对于普通聊天，Agent 可以直接回复，交互体验大大提升。
 
-理论说完了，让我们 langsung aaja, aaja, langsung aaja, aaja, show me the code!
+理论说完了，让我们  show the code!
 
 ---
 
