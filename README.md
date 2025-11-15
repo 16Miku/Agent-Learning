@@ -22,7 +22,7 @@ Agent_Learning_2.ipynb学习了MCP服务器和客户端的搭建，以及用Lang
 
 3、包括基本的问候工具调用功能
 
-
+---
 
 
 [Browser_Use_Test.ipynb](Browser_Use_Test.ipynb)
@@ -33,7 +33,7 @@ Agent_Learning_2.ipynb学习了MCP服务器和客户端的搭建，以及用Lang
 
 2、Browser_Use_Test.py为本地conda创建的Mapping-Agent环境下的运行的代码。
 
-
+---
 
 [BrightData_Test.ipynb](BrightData_Test.ipynb)
 
@@ -48,10 +48,12 @@ Agent_Learning_2.ipynb学习了MCP服务器和客户端的搭建，以及用Lang
 
 3、snapshot_s_mhegy18m9ksfg3t2t.json为crawl方法执行后异步获取的json文件。
 
-
+---
 
 [LangGraph_BrightData.ipynb](LangGraph_BrightData.ipynb)
 
+
+[LangGraph_BrightData.md](LangGraph_BrightData.md)为博客文章。
 
 1、LangGraph_BrightData.ipynb使用LangGraph的ReAct-Agent范式集成了BrightData和PaperSearch的MCP工具，通过搜索和爬取领英和学术网站，实现论文搜索和读取，学者信息提取，邮箱查找等功能。
 
@@ -70,7 +72,7 @@ https://docs.langchain.com/oss/python/langchain/agents
 https://docs.langchain.com/oss/python/langgraph/workflows-agents
 
 
-
+---
 
 
 
