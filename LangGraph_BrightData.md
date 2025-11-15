@@ -77,6 +77,7 @@ nest_asyncio.apply() # 允许在Jupyter/Colab环境中嵌套运行asyncio事件�
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_mcp_adapters.client import MultiServerMCPClient
+from langchain.agents import create_agent
 from langgraph.checkpoint.memory import InMemorySaver
 from pydantic import BaseModel, Field # 导入 Pydantic 用于定义我们的“伪工具”
 
@@ -348,6 +349,7 @@ nest_asyncio.apply()
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_mcp_adapters.client import MultiServerMCPClient
+from langchain.agents import create_agent
 from langgraph.checkpoint.memory import InMemorySaver
 # from langchain_core.pydantic_v1 import BaseModel, Field # 导入 Pydantic 用于动态工具
 from pydantic import BaseModel, Field
